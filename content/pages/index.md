@@ -39,7 +39,7 @@ sections:
   - type: QuoteSection
     quote: '“Who feeds a hungry animal, feeds his own soul.”'
     name: Chandra Prakash Jain
-    title: Product Marketing Manager at Acme
+    title: IMD Employee and Social Worker
     colors: colors-f
     elementId: ''
     styles:
