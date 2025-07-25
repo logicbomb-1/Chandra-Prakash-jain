@@ -4,24 +4,22 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "isSticky": true,
+        "title": "CP JAIN",
         "isTitleVisible": true,
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/cp",
-                "icon": "facebook",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/IMG-20221212-WA0141.jpg",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
