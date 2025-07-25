@@ -137,7 +137,7 @@ sections:
       on quiet acts of compassion, everyday honesty, and deep-rooted values.
     colors: colors-f
     variant: variant-a
-    elementId: ''
+    elementId: about
     styles:
       self:
         height: auto
