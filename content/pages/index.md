@@ -53,8 +53,8 @@ sections:
           - pr-4
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
+    title: A Life of Grace in Action
+    subtitle: 'वो क्षण जो सेवा, संयम और सच्चे संस्कारों को जीवंत करते हैं'
     images:
       - type: ImageBlock
         url: /images/Imageg800-1644146828307.avif
