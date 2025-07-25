@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: He is Chandra Prakash Jain
     subtitle: >-
       For over 26 years, Chandra Prakash Jain from Lucknow has been feeding
@@ -35,16 +35,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - type: QuoteSection
     quote: '“Who feeds a hungry animal, feeds his own soul.”'
     name: Chandra Prakash Jain
@@ -66,7 +57,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Imageg800-1644146828307.avif
         altText: Image one
         caption: Image one caption
         elementId: ''
@@ -148,4 +139,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+        borderWidth: 8
+        borderStyle: double
 ---
