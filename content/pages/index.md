@@ -139,5 +139,5 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-        borderWidth: 5
+        borderWidth: 8
 ---
