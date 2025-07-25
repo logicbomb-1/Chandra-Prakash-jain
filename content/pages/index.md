@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: He is Chandra Prakash Jain
     subtitle: >-
       For over 26 years, Chandra Prakash Jain from Lucknow has been feeding
