@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": true,
         "title": "CP JAIN",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [],
         "socialLinks": [],
         "styles": {
