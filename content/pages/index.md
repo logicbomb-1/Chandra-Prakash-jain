@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: He is Chandra Prakash Jain
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      For over 26 years, Chandra Prakash Jain from Lucknow has been feeding
+      stray cows, dogs, and cats every single day — rain or shine, without
+      missing a day.
     styles:
       self:
         height: auto
