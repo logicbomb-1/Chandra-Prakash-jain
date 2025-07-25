@@ -95,7 +95,7 @@ sections:
         textAlign: center
   - type: TextSection
     title: A Tribute to Chandra Prakash Jain
-    subtitle: The section subtitle
+    subtitle: 'Feeding Souls, One Step at a Time'
     text: >
       Chandra Prakash Jain is not just a name — he is a quiet force of goodness,
       discipline, and unwavering values. A man whose presence speaks more than
