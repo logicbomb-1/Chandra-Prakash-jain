@@ -36,4 +36,20 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+  - type: QuoteSection
+    quote: '“Who feeds a hungry animal, feeds his own soul.”'
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
 ---
