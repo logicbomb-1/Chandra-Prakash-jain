@@ -30,7 +30,7 @@
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             }
         ],
         "contacts": {
