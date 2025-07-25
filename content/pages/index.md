@@ -38,7 +38,7 @@ sections:
     actions: []
   - type: QuoteSection
     quote: '“Who feeds a hungry animal, feeds his own soul.”'
-    name: Johnna Doe
+    name: Chandra Prakash Jain
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
