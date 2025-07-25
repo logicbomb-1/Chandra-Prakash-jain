@@ -54,7 +54,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: करुणा के कुछ पल
-    subtitle: This is the subtitle
+    subtitle: 'वो क्षण जो सेवा, संयम और सच्चे संस्कारों को जीवंत करते हैं'
     images:
       - type: ImageBlock
         url: /images/Imageg800-1644146828307.avif
