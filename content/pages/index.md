@@ -53,7 +53,7 @@ sections:
           - pr-4
         textAlign: center
   - type: MediaGallerySection
-    title: करुणा के कुछ पल
+    title: A Life of Grace in Action
     subtitle: 'वो क्षण जो सेवा, संयम और सच्चे संस्कारों को जीवंत करते हैं'
     images:
       - type: ImageBlock
