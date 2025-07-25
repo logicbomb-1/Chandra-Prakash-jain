@@ -94,7 +94,7 @@ sections:
           - pr-4
         textAlign: center
   - type: TextSection
-    title: The Section Title
+    title: A Tribute to Chandra Prakash Jain
     subtitle: The section subtitle
     text: >
       Chandra Prakash Jain is not just a name — he is a quiet force of goodness,
