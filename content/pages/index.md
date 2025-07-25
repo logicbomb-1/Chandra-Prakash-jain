@@ -53,7 +53,7 @@ sections:
           - pr-4
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: करुणा के कुछ पल
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
