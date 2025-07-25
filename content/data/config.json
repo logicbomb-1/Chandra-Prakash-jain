@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": true,
+        "isSticky": false,
         "title": "CP JAIN",
         "isTitleVisible": true,
         "primaryLinks": [],
@@ -29,7 +29,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "altText": "",
+                "showIcon": false
             }
         ],
         "contacts": {
@@ -54,5 +55,6 @@
                 ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/Image258s-1644147005728.avif"
 }
