@@ -4,22 +4,20 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Image258s-1644147005728.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: He is Chandra Prakash Jain
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      For over 26 years, Chandra Prakash Jain from Lucknow has been feeding
+      stray cows, dogs, and cats every single day — rain or shine, without
+      missing a day.
     styles:
       self:
         height: auto
@@ -38,119 +36,107 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
+  - type: QuoteSection
+    quote: '“Who feeds a hungry animal, feeds his own soul.”'
+    name: Chandra Prakash Jain
+    title: IMD Employee and Social Worker
+    colors: colors-f
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-24
-          - pb-24
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
-        textAlign: left
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+        textAlign: center
+  - type: MediaGallerySection
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        textAlign: center
+  - type: TextSection
+    title: A Tribute to Chandra Prakash Jain
+    subtitle: 'Feeding Souls, One Step at a Time'
+    text: >
+      Chandra Prakash Jain is not just a name — he is a quiet force of goodness,
+      discipline, and unwavering values. A man whose presence speaks more than
+      his words, he lives a life anchored in simplicity and depth.
+
+
+      Each morning begins with silence, prayer, and devotion. He follows his
+      Jain rituals with quiet grace, never missing a moment to express gratitude
+      to the universe. His routine is gentle yet unwavering — rising early,
+      helping around the house, stepping out to feed stray animals, and lending
+      a helping hand to those in need, never seeking recognition.
+
+
+      His life is a mirror of humility and inner strength.
+
+
+      > **"Seva aur shuddh vicharon se jeevan ki safalta naapta hoon, dikhawa
+      nahi karta, par har din kuch achha kar jaata hoon."**
+
+
+      Despite the world’s noise, he remains untouched — choosing instead to walk
+      the path of truth, kindness, and faith.
+
+
+      > **"Jo insaan bina bole doosron ke dukh samajh jaaye, wahi asli insaan
+      hota hai — aur Chandra Prakash ji us misaal ka ek jeevant roop hain।"**
+
+
+      He reminds us that a meaningful life is not built on wealth or fame, but
+      on quiet acts of compassion, everyday honesty, and deep-rooted values.
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
         padding:
           - pt-28
-          - pb-48
+          - pb-28
           - pl-4
           - pr-4
-        textAlign: left
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        flexDirection: row
-        textAlign: left
+        textAlign: center
 ---
