@@ -140,4 +140,5 @@ sections:
           - pr-4
         textAlign: center
         borderWidth: 8
+        borderStyle: double
 ---
