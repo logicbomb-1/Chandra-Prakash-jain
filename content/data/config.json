@@ -8,16 +8,7 @@
         "title": "CP JAIN",
         "isTitleVisible": true,
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/cp",
-                "icon": "facebook",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
