@@ -29,7 +29,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             }
         ],
         "contacts": {
