@@ -57,7 +57,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Imageg800-1644146828307.avif
         altText: Image one
         caption: Image one caption
         elementId: ''
