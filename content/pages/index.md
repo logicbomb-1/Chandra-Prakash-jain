@@ -126,7 +126,7 @@ sections:
 
       He reminds us that a meaningful life is not built on wealth or fame, but
       on quiet acts of compassion, everyday honesty, and deep-rooted values.
-    colors: colors-f
+    colors: colors-e
     variant: variant-a
     elementId: ''
     styles:
